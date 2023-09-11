@@ -8,6 +8,8 @@ Note: This is POV code. There are no guarantees that it will be maintained.
 
 Set the `PRISMA_CLOUD_PATH_TO_CONSOLE` and `PRISMA_CLOUD_API_TOKEN` environment variables. These values can be found by navigating to: **Compute > Manage > System > Utilities**
 
+Next, change the `START_DATE` and `END_DATE` variables to a range which suits your needs. 
+
 ## Example df output
 
 ```
